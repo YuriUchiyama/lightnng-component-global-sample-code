@@ -1,0 +1,1 @@
+# lightnng-sample-global-verion
